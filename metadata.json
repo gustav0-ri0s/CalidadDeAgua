@@ -1,0 +1,6 @@
+{
+  "name": "Analizador de Calidad del Agua",
+  "description": "Una aplicación que utiliza IA para analizar la turbidez, temperatura y TDS del agua, proporcionando un diagnóstico y recomendaciones.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
