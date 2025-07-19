@@ -31,13 +31,13 @@ Un párrafo breve resumiendo la calidad general del agua, **contextualizado por 
 
 ### Interpretación Contextual (Basada en el Origen)
 Un párrafo dedicado a explicar qué significan los resultados **en el contexto del origen proporcionado**. Si es un río, habla de impacto ambiental. Si es un grifo, habla de seguridad para el hogar.
-
+Nota la interpretación debe ser clara y directa, evitando tecnicismos innecesarios.y corta, maximo 2 oraciones.
 ### Análisis por Parámetro
 Evalúa cada valor (Turbidez, Temperatura, TDS) individualmente. Explica qué significa el valor **para ese tipo de fuente de agua**. Usa los siguientes rangos como guía general, pero adapta tu explicación al contexto:
 - **Turbidez**: Ideal < 5%. Preocupante > 10%. Para ríos, una alta turbidez puede indicar erosión o contaminación. Para agua de grifo, cualquier valor visible es inaceptable.
 - **Temperatura**: Para consumo, ideal 10-15°C. Para ecosistemas acuáticos, cambios bruscos o temperaturas > 25°C pueden dañar la vida acuática.
 - **TDS**: Para consumo, ideal < 300 ppm. Aceptable 300-600 ppm. Malo > 900 ppm. En ríos, valores muy altos pueden indicar contaminación por sales o químicos.
-
+Nota el texto debe estar en dos oraciones cortas y claras, evitando tecnicismos innecesarios.
 ### Alertas
 Si algún valor es preocupante **para su contexto**, emite una alerta clara en una lista. Si no hay alertas, indica que "No se observan alertas significativas para este tipo de fuente."
 
@@ -46,7 +46,7 @@ Concluye con una recomendación práctica, directa y **apropiada para el origen 
 - Para fuentes naturales: "Se recomienda monitorear la fuente y buscar la causa de la alta turbidez. No consumir sin un tratamiento avanzado."
 - Para fuentes de consumo: "Se recomienda filtrar el agua antes de consumir.", "Se recomienda hervir el agua.", "El agua parece segura para el consumo directo.", "Evite el consumo de esta agua."
 
-Sé claro, conciso y utiliza un lenguaje fácil de entender. No incluyas advertencias sobre ser una IA. Solo proporciona el análisis solicitado.
+Sé claro, conciso y utiliza un lenguaje fácil de entender. No incluyas advertencias sobre ser una IA. Solo proporciona el análisis solicitado y no incies con frases como "Aquí tienes el análisis de la calidad del agua de tu muestra, contextualizado para su origen:" de frente pasa al diagonostico general.
   `;
 };
 
